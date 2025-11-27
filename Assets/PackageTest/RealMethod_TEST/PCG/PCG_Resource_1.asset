@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9791a4defb961c469f8d02178d4224e, type: 3}
+  m_Name: PCG_Resource_1
+  m_EditorClassIdentifier: 
+  Sources:
+  - Prefab: {fileID: 3763200435561155610, guid: 7ac76b6cd5156334f9e4450bf76e1940,
+      type: 3}
+    Layer: 0
+    LoadPriority: 0
+    Label: 
+    Count: 100
+  - Prefab: {fileID: 1950229649388949855, guid: d45db1d8925f9b7498e46498f1e28681,
+      type: 3}
+    Layer: 2
+    LoadPriority: 0
+    Label: 
+    Count: 100
