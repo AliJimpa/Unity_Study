@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d18f0dc5326ea74ea595530aeef7c97, type: 3}
+  m_Name: RealMethodSetting
+  m_EditorClassIdentifier: 
+  GameClass: RealMethod.DefultGame
+  GameService: RealMethod.DefaultGameService
+  GameConfig: {fileID: 0}
+  GamePrefab_1: {fileID: 8994016106388293971, guid: a03de021ea8f5854cb74a347bd2bc102,
+    type: 3}
+  GamePrefab_2: {fileID: 5363767146834636634, guid: b1383c642b4f57a4c8a363c85da6a4c7,
+    type: 3}
+  GamePrefab_3: {fileID: 0}
+  ProjectStructure:
+  - Identity: 0
+    Path: Assets/1_Scenes
+  - Identity: 1
+    Path: Assets/2_Scripts
+  - Identity: 2
+    Path: Assets/3_Prefabs
+  - Identity: 3
+    Path: Assets/4_Data
+  - Identity: 4
+    Path: Assets/5_Mesh
+  - Identity: 5
+    Path: Assets/5_Sprite
+  - Identity: 6
+    Path: Assets/7_Misc/Textures
+  - Identity: 7
+    Path: Assets/7_Misc/Videos
+  - Identity: 8
+    Path: Assets/7_Misc/Materials
+  - Identity: 9
+    Path: Assets/6_Shader
+  - Identity: 10
+    Path: Assets/8_Sound&Music
+  - Identity: 11
+    Path: Assets/9_VFX
+  - Identity: 12
+    Path: Assets/10_Animation
+  - Identity: 13
+    Path: Assets/7_Misc
+  - Identity: 14
+    Path: Assets/Developer
+  - Identity: 15
+    Path: Assets/Resources
+  - Identity: 16
+    Path: Assets/~Thirdparty
+  - Identity: 17
+    Path: Assets/4_Data/PCG
+  - Identity: 18
+    Path: Assets/7_Misc/Templates/Scripts
+  - Identity: 19
+    Path: Assets/7_Misc/Templates/Prefabs
+  - Identity: 20
+    Path: Assets/2_Scripts/_Game/Utility

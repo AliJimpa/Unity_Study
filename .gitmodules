@@ -1,0 +1,3 @@
+[submodule "Assets/PackageDev/RealMethod"]
+	path = Assets/PackageDev/RealMethod
+	url = https://github.com/AliJimpa/RealMethod.git

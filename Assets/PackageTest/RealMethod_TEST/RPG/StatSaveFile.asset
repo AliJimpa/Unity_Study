@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46374fda705b31444afcda8991f4a791, type: 3}
+  m_Name: StatSaveFile
+  m_EditorClassIdentifier: 
+  Description: This Save file include IStatStorage for store data by StatProfile
+    for saving Stat items
+  UsePlayerPrefs: 1
+  Names:
+  - StatProfile_Vitality
+  BaseValue:
+  - 1
+  Mins:
+  - 0
+  Maxs:
+  - 30
